@@ -1,0 +1,22 @@
+C:\Users\figaro\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\figaro\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form1.resources
+C:\Users\figaro\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Properties.Resources.resources
+C:\Users\figaro\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.csproj.GenerateResource.Cache
+C:\Users\figaro\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.exe
+C:\Users\figaro\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.pdb
+C:\Users\figaro\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.exe
+C:\Users\figaro\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.pdb
+C:\Users\figaro\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\map.gif
+C:\Users\figaro\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\EquatorUtils.dll
+C:\Users\figaro\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmapsLibCF.dll
+C:\Users\figaro\Documents\VisualStudio2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\map.gif
+C:\Users\figaro\Documents\VisualStudio2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.exe
+C:\Users\figaro\Documents\VisualStudio2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.pdb
+C:\Users\figaro\Documents\VisualStudio2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\EquatorUtils.dll
+C:\Users\figaro\Documents\VisualStudio2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmapsLibCF.dll
+C:\Users\figaro\Documents\VisualStudio2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\figaro\Documents\VisualStudio2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form1.resources
+C:\Users\figaro\Documents\VisualStudio2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Properties.Resources.resources
+C:\Users\figaro\Documents\VisualStudio2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.csproj.GenerateResource.Cache
+C:\Users\figaro\Documents\VisualStudio2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.exe
+C:\Users\figaro\Documents\VisualStudio2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.pdb
